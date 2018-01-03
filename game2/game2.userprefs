@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NotificationFCMScript.cs">
+    <Files>
+      <File FileName="../TouchDemo/Assets/TouchScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/GolemController.cs" Line="1" Column="1" />
+      <File FileName="Assets/WalkAheadScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/NotificationFCMScript.cs" Line="111" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

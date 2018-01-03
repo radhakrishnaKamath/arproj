@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "82479389392",
+    "firebase_url": "https://demounity-41118.firebaseio.com",
+    "project_id": "demounity-41118",
+    "storage_bucket": "demounity-41118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82479389392:android:34560bad63b3fd32",
+        "android_client_info": {
+          "package_name": "com.i.j"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82479389392-s4htjkjh66cf82kpbsgtbd178g9q3lib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5X1oWHcn0xpYNXNZDpZpB_fiG6tPm3ZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

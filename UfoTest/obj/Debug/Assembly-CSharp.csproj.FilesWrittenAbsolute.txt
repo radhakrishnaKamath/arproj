@@ -1,0 +1,58 @@
+/home/radhakrishna/UfoTest/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/home/radhakrishna/UfoTest/Temp/bin/Debug/Assembly-CSharp.dll
+/home/radhakrishna/UfoTest/obj/Debug/Assembly-CSharp.dll
+/home/radhakrishna/UfoTest/obj/Debug/Assembly-CSharp.dll.mdb
+/home/radhakrishna/UfoTest/Temp/bin/Debug/UnityEngine.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/UnityEditor.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/Facebook.Unity.Settings.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/UnityEngine.UI.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/UnityEngine.Networking.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/nunit.framework.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/UnityEngine.Timeline.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/UnityEngine.Analytics.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/Vuforia.UnityExtensions.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/Unity.DataContract.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/ExCSS.Unity.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/Unity.Cecil.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/Unity.SerializationLogic.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/Unity.UNetWeaver.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/home/radhakrishna/UfoTest/Temp/bin/Debug/Unity.CecilTools.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/home/radhakrishna/UfoTest/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/Assembly-CSharp.dll
+/home/radhakrishna/AR proj/UfoTest/obj/Debug/Assembly-CSharp.dll
+/home/radhakrishna/AR proj/UfoTest/obj/Debug/Assembly-CSharp.dll.mdb
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/UnityEngine.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/UnityEditor.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/Facebook.Unity.Settings.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/UnityEngine.UI.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/UnityEngine.Networking.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/nunit.framework.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/UnityEngine.Timeline.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/Vuforia.UnityExtensions.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/UnityEngine.Analytics.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/Unity.DataContract.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/ExCSS.Unity.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/Unity.Cecil.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/Unity.SerializationLogic.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/Unity.UNetWeaver.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/Unity.CecilTools.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/home/radhakrishna/AR proj/UfoTest/Temp/bin/Debug/Unity.Cecil.Mdb.dll
